@@ -299,16 +299,6 @@
             "decesos": 18,
             "recuperados": 60,
             "observacion":""
-        },
-        {
-            "fecha":"2020-05-24",
-            "confirmados": 329,
-            "descartados": 2469,
-            "activos": 0,
-            "sospechosos": 95,
-            "decesos": 16,
-            "recuperados": 55,            
-            "observacion":"Los activos no fue registrado"
         }
     ]
 }
