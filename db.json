@@ -1,4 +1,5 @@
-[
+{
+    "cochabamba": [
     {
         "fecha":"2020-06-19",
         "confirmados": 2302,
@@ -498,5 +499,6 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados"
-    },
+    }
 ]
+}
