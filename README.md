@@ -14,3 +14,7 @@ https://my-json-server.typicode.com/gumiel/api_rest_covid_19_cochabamba/cochabam
 
 
 Leer la documentacion de esta APP https://my-json-server.typicode.com
+
+Tambien puede leer todos los datos desde 
+
+https://raw.githubusercontent.com/gumiel/api_rest_covid_19_cochabamba/master/cochabamba.json
