@@ -1,5 +1,23 @@
 [
     {
+        "fecha":"2020-06-24",
+        "confirmados": 2920,
+        "descartados": 5186,
+        "activos": 2690,
+        "sospechosos": 110,
+        "decesos": 130,
+        "recuperados": 117
+    },
+    {
+        "fecha":"2020-06-23",
+        "confirmados": 2775,
+        "descartados": 5018,
+        "activos": 2555,
+        "sospechosos": 130,
+        "decesos": 125,
+        "recuperados": 112
+    },
+    {
         "fecha":"2020-06-22",
         "confirmados": 2612,
         "descartados": 4894,
