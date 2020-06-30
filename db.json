@@ -1,6 +1,60 @@
 {
     "cochabamba":[
         {
+            "fecha":"2020-06-28",
+            "confirmados": 3468,
+            "descartados": 5666,
+            "activos": 3165,
+            "sospechosos": 100,
+            "decesos": 165,
+            "recuperados": 138
+        },
+        {
+            "fecha":"2020-06-27",
+            "confirmados": 3416,
+            "descartados": 5523,
+            "activos": 3128,
+            "sospechosos": 120,
+            "decesos": 150,
+            "recuperados": 138
+        },
+        {
+            "fecha":"2020-06-26",
+            "confirmados": 3233,
+            "descartados": 5415,
+            "activos": 2970,
+            "sospechosos": 120,
+            "decesos": 140,
+            "recuperados": 123
+        },
+        {
+            "fecha":"2020-06-25",
+            "confirmados": 2970,
+            "descartados": 5236,
+            "activos": 2717,
+            "sospechosos": 100,
+            "decesos": 136,
+            "recuperados": 117
+        },
+        {
+            "fecha":"2020-06-24",
+            "confirmados": 2920,
+            "descartados": 5186,
+            "activos": 2690,
+            "sospechosos": 110,
+            "decesos": 130,
+            "recuperados": 117
+        },
+        {
+            "fecha":"2020-06-23",
+            "confirmados": 2775,
+            "descartados": 5018,
+            "activos": 2555,
+            "sospechosos": 130,
+            "decesos": 125,
+            "recuperados": 112
+        },
+        {
             "fecha":"2020-06-22",
             "confirmados": 2612,
             "descartados": 4894,
