@@ -226,7 +226,9 @@
         "activos": 1234,
         "sospechosos": 105,
         "decesos": 60,
-        "recuperados": 76
+        "recuperados": 76,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-10",
@@ -235,7 +237,9 @@
         "activos": 1170,
         "sospechosos": 80,
         "decesos": 57,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-09",
@@ -244,7 +248,9 @@
         "activos": 1103,
         "sospechosos": 85,
         "decesos": 57,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-08",
@@ -253,7 +259,9 @@
         "activos": 1036,
         "sospechosos": 95,
         "decesos": 55,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-07",
@@ -262,7 +270,9 @@
         "activos": 974,
         "sospechosos": 95,
         "decesos": 52,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-06",
@@ -271,7 +281,9 @@
         "activos": 899,
         "sospechosos": 90,
         "decesos": 52,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-05",
@@ -280,7 +292,9 @@
         "activos": 839,
         "sospechosos": 100,
         "decesos": 51,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-04",
@@ -289,7 +303,9 @@
         "activos": 778,
         "sospechosos": 90,
         "decesos": 49,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-04",
@@ -298,7 +314,9 @@
         "activos": 778,
         "sospechosos": 90,
         "decesos": 49,
-        "recuperados": 71
+        "recuperados": 71,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-03",
@@ -307,7 +325,9 @@
         "activos": 742,
         "sospechosos": 95,
         "decesos": 45,
-        "recuperados": 64
+        "recuperados": 64,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-02",
