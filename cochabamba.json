@@ -6,7 +6,9 @@
         "activos": 3285,
         "sospechosos": 120,
         "decesos": 202,
-        "recuperados": 153
+        "recuperados": 153,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-29",
@@ -15,7 +17,9 @@
         "activos": 3164,
         "sospechosos": 90,
         "decesos": 184,
-        "recuperados": 153
+        "recuperados": 153,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-28",
@@ -24,7 +28,9 @@
         "activos": 3165,
         "sospechosos": 100,
         "decesos": 165,
-        "recuperados": 138
+        "recuperados": 138,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-27",
@@ -33,7 +39,9 @@
         "activos": 3128,
         "sospechosos": 120,
         "decesos": 150,
-        "recuperados": 138
+        "recuperados": 138,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-26",
@@ -42,7 +50,9 @@
         "activos": 2970,
         "sospechosos": 120,
         "decesos": 140,
-        "recuperados": 123
+        "recuperados": 123,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-25",
@@ -51,7 +61,9 @@
         "activos": 2717,
         "sospechosos": 100,
         "decesos": 136,
-        "recuperados": 117
+        "recuperados": 117,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-24",
@@ -60,7 +72,9 @@
         "activos": 2690,
         "sospechosos": 110,
         "decesos": 130,
-        "recuperados": 117
+        "recuperados": 117,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-23",
@@ -69,7 +83,9 @@
         "activos": 2555,
         "sospechosos": 130,
         "decesos": 125,
-        "recuperados": 112
+        "recuperados": 112,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-22",
@@ -78,7 +94,9 @@
         "activos": 2404,
         "sospechosos": 95,
         "decesos": 114,
-        "recuperados": 94
+        "recuperados": 94,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-21",
@@ -87,7 +105,9 @@
         "activos": 2350,
         "sospechosos": 120,
         "decesos": 107,
-        "recuperados": 94
+        "recuperados": 94,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-20",
@@ -96,7 +116,9 @@
         "activos": 2165,
         "sospechosos": 90,
         "decesos": 101,
-        "recuperados": 94
+        "recuperados": 94,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-19",
@@ -105,7 +127,9 @@
         "activos": 2110,
         "sospechosos": 95,
         "decesos": 98,
-        "recuperados": 94
+        "recuperados": 94,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-18",
@@ -114,7 +138,9 @@
         "activos": 1997,
         "sospechosos": 120,
         "decesos": 97,
-        "recuperados": 86
+        "recuperados": 86,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-17",
@@ -123,7 +149,9 @@
         "activos": 1867,
         "sospechosos": 100,
         "decesos": 94,
-        "recuperados": 81
+        "recuperados": 81,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-17",
@@ -132,7 +160,9 @@
         "activos": 1867,
         "sospechosos": 100,
         "decesos": 94,
-        "recuperados": 81
+        "recuperados": 81,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-16",
@@ -141,7 +171,9 @@
         "activos": 1751,
         "sospechosos": 100,
         "decesos": 88,
-        "recuperados": 78
+        "recuperados": 78,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-15",
@@ -150,7 +182,9 @@
         "activos": 1723,
         "sospechosos": 150,
         "decesos": 83,
-        "recuperados": 78
+        "recuperados": 78,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-14",
@@ -159,7 +193,9 @@
         "activos": 1570,
         "sospechosos": 120,
         "decesos": 78,
-        "recuperados": 76
+        "recuperados": 76,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-13",
@@ -168,7 +204,9 @@
         "activos": 1387,
         "sospechosos": 100,
         "decesos": 75,
-        "recuperados": 76
+        "recuperados": 76,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-12",
@@ -177,16 +215,9 @@
         "activos": 0,
         "sospechosos": 0,
         "decesos": 0,
-        "recuperados": 0
-    },
-    {
-        "fecha":"2020-06-11",
-        "confirmados": 1369,
-        "descartados": 3947,
-        "activos": 1234,
-        "sospechosos": 105,
-        "decesos": 60,
-        "recuperados": 76
+        "recuperados": 0,
+        "observacion":"",
+        "validado":false
     },
     {
         "fecha":"2020-06-11",
@@ -285,7 +316,9 @@
         "activos": 683,
         "sospechosos": 70,
         "decesos": 39,
-        "recuperados": 64
+        "recuperados": 64,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-06-01",
@@ -294,7 +327,9 @@
         "activos": 619,
         "sospechosos": 95,
         "decesos": 35,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-31",
@@ -303,7 +338,9 @@
         "activos": 527,
         "sospechosos": 60,
         "decesos": 24,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-30",
@@ -312,7 +349,9 @@
         "activos": 473,
         "sospechosos": 95,
         "decesos": 23,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-29",
@@ -321,7 +360,9 @@
         "activos": 407,
         "sospechosos": 75,
         "decesos": 21,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-28",
@@ -330,7 +371,9 @@
         "activos": 340,
         "sospechosos": 50,
         "decesos": 19,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-27",
@@ -339,7 +382,9 @@
         "activos": 298,
         "sospechosos": 55,
         "decesos": 18,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-27",
@@ -348,7 +393,9 @@
         "activos": 263,
         "sospechosos": 40,
         "decesos": 18,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-26",
@@ -357,7 +404,9 @@
         "activos": 263,
         "sospechosos": 40,
         "decesos": 18,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-25",
@@ -366,7 +415,9 @@
         "activos": 263,
         "sospechosos": 50,
         "decesos": 18,
-        "recuperados": 60
+        "recuperados": 60,
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-24",
@@ -376,7 +427,8 @@
         "sospechosos": 95,
         "decesos": 16,
         "recuperados": 55,
-        "observacion":"Los activos no fue registrado"
+        "observacion":"Los activos no fue registrado",
+        "validado":true
     },
     {
         "fecha":"2020-05-23",
@@ -386,7 +438,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-22",
@@ -396,7 +449,8 @@
         "sospechosos": 52,
         "decesos": 11,
         "recuperados": 55,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-21",
@@ -406,7 +460,8 @@
         "sospechosos": 90,
         "decesos": 11,
         "recuperados": 55,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-20",
@@ -416,7 +471,8 @@
         "sospechosos": 90,
         "decesos": 11,
         "recuperados": 55,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-19",
@@ -426,7 +482,8 @@
         "sospechosos": 86,
         "decesos": 11,
         "recuperados": 55,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-18",
@@ -436,7 +493,8 @@
         "sospechosos": 80,
         "decesos": 10,
         "recuperados": 55,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-17",
@@ -446,7 +504,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-16",
@@ -456,7 +515,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-15",
@@ -466,17 +526,8 @@
         "sospechosos": 50,
         "decesos": 9,
         "recuperados": 50,
-        "observacion":""
-    },
-    {
-        "fecha":"2020-05-15",
-        "confirmados": 196,
-        "descartados": 1606,
-        "activos": 156,
-        "sospechosos": 50,
-        "decesos": 9,
-        "recuperados": 50,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-14",
@@ -486,7 +537,8 @@
         "sospechosos": 46,
         "decesos": 8,
         "recuperados": 45,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-13",
@@ -496,7 +548,8 @@
         "sospechosos": 50,
         "decesos": 8,
         "recuperados": 45,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-12",
@@ -506,7 +559,8 @@
         "sospechosos": 50,
         "decesos": 7,
         "recuperados": 45,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-11",
@@ -516,7 +570,8 @@
         "sospechosos": 20,
         "decesos": 6,
         "recuperados": 45,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-10",
@@ -526,7 +581,8 @@
         "sospechosos": 29,
         "decesos": 6,
         "recuperados": 40,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-10",
@@ -536,7 +592,8 @@
         "sospechosos": 29,
         "decesos": 6,
         "recuperados": 40,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-09",
@@ -546,7 +603,8 @@
         "sospechosos": 29,
         "decesos": 6,
         "recuperados": 40,
-        "observacion":""
+        "observacion":"",
+        "validado":true
     },
     {
         "fecha":"2020-05-08",
@@ -556,7 +614,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-07",
@@ -566,7 +625,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-06",
@@ -576,7 +636,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-05",
@@ -586,7 +647,8 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     },
     {
         "fecha":"2020-05-04",
@@ -596,6 +658,7 @@
         "sospechosos": 0,
         "decesos": 0,
         "recuperados": 0,
-        "observacion":"Los datos no fueron registrados"
+        "observacion":"Los datos no fueron registrados",
+        "validado":true
     }
 ]
