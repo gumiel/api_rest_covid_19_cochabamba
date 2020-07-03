@@ -448,7 +448,7 @@
         "decesos": 16,
         "recuperados": 55,
         "observacion":"Los activos no fue registrado",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-23",
@@ -459,7 +459,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-22",
@@ -525,7 +525,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-16",
@@ -536,7 +536,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-15",
@@ -635,7 +635,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-07",
@@ -646,7 +646,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-06",
@@ -657,7 +657,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-05",
@@ -668,7 +668,7 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     },
     {
         "fecha":"2020-05-04",
@@ -679,6 +679,6 @@
         "decesos": 0,
         "recuperados": 0,
         "observacion":"Los datos no fueron registrados",
-        "validado":true
+        "validado":false
     }
 ]
