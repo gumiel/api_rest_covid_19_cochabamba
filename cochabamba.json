@@ -8,7 +8,7 @@
         "decesos": 312,
         "recuperados": 350,
         "observacion":"",
-        "validado":false
+        "validado":true
     },
     {
         "fecha":"2020-07-07",
@@ -19,7 +19,7 @@
         "decesos": 305,
         "recuperados": 329,
         "observacion":"",
-        "validado":false
+        "validado":true
     },
     {
         "fecha":"2020-07-06",
