@@ -1,5 +1,16 @@
 [
     {     
+        "fecha": "2020-07-21",
+        "confirmados": 6694,
+        "descartados": 8244,
+        "activos": 4771,
+        "sospechosos": 130,
+        "decesos": 512,
+        "recuperados": 1412,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2020-07-20",
         "confirmados": 6526,
         "descartados": 8128,
