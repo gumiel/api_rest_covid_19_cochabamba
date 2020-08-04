@@ -1,5 +1,71 @@
 [
     {     
+        "fecha": "2020-07-03",
+        "confirmados": 9815,
+        "descartados": 10752,
+        "activos": 6303,
+        "sospechosos": 150,
+        "decesos": 713,
+        "recuperados": 2799,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-02",
+        "confirmados": 9626,
+        "descartados": 10653,
+        "activos": 6183,
+        "sospechosos": 200,
+        "decesos": 698,
+        "recuperados": 2745,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-01",
+        "confirmados": 9418,
+        "descartados": 10522,
+        "activos": 6076,
+        "sospechosos": 250,
+        "decesos": 683,
+        "recuperados": 2659,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-31",
+        "confirmados": 9030,
+        "descartados": 10101,
+        "activos": 5826,
+        "sospechosos": 380,
+        "decesos": 663,
+        "recuperados": 2541,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-30",
+        "confirmados": 8582,
+        "descartados": 9775,
+        "activos": 5490,
+        "sospechosos": 130,
+        "decesos": 646,
+        "recuperados": 2446,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-29",
+        "confirmados": 8410,
+        "descartados": 9608,
+        "activos": 5451,
+        "sospechosos": 120,
+        "decesos": 634,
+        "recuperados": 2325,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2020-07-28",
         "confirmados": 8310,
         "descartados": 9553,
