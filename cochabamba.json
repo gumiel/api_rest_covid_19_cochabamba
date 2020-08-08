@@ -1,5 +1,38 @@
 [
     {     
+        "fecha": "2020-07-06",
+        "confirmados": 10309,
+        "descartados": 11402,
+        "activos": 6491,
+        "sospechosos": 100,
+        "decesos": 759,
+        "recuperados": 3059,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-05",
+        "confirmados": 10213,
+        "descartados": 11314,
+        "activos": 6487,
+        "sospechosos": 190,
+        "decesos": 745,
+        "recuperados": 2981,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-04",
+        "confirmados": 10031,
+        "descartados": 11098,
+        "activos": 6394,
+        "sospechosos": 200,
+        "decesos": 730,
+        "recuperados": 2907,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2020-07-03",
         "confirmados": 9815,
         "descartados": 10752,
