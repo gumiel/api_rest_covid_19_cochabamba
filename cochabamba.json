@@ -1,5 +1,82 @@
 [
     {     
+        "fecha": "2020-07-17",
+        "confirmados": 11411,
+        "descartados": 12856,
+        "activos": 5256,
+        "sospechosos": 100,
+        "decesos": 839,
+        "recuperados": 5316,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-16",
+        "confirmados": 11359,
+        "descartados": 12728,
+        "activos": 5534,
+        "sospechosos": 50,
+        "decesos": 832,
+        "recuperados": 4993,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-15",
+        "confirmados": 11346,
+        "descartados": 12725,
+        "activos": 5790,
+        "sospechosos": 100,
+        "decesos": 822,
+        "recuperados": 4734,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-14",
+        "confirmados": 11259,
+        "descartados": 12634,
+        "activos": 5902,
+        "sospechosos": 150,
+        "decesos": 816,
+        "recuperados": 4531,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-13",
+        "confirmados": 11074,
+        "descartados": 12445,
+        "activos": 6051,
+        "sospechosos": 100,
+        "decesos": 809,
+        "recuperados": 4214,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-12",
+        "confirmados": 10990,
+        "descartados": 12324,
+        "activos": 6153,
+        "sospechosos": 150,
+        "decesos": 801,
+        "recuperados": 4036,
+        "observacion": "",
+        "validado": true
+    },
+    {     
+        "fecha": "2020-07-11",
+        "confirmados": 10845,
+        "descartados": 12140,
+        "activos": 6279,
+        "sospechosos": 150,
+        "decesos": 796,
+        "recuperados": 3770,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2020-07-10",
         "confirmados": 10722,
         "descartados": 11892,
