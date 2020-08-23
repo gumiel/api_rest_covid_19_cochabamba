@@ -1,23 +1,12 @@
 [
     {     
-        "fecha": "2020-07-23",
+        "fecha": "2020-07-22",
         "confirmados": 11791,
         "descartados": 13640,
         "activos": 4376,
         "sospechosos": 100,
         "decesos": 870,
         "recuperados": 6545,
-        "observacion": "",
-        "validado": true
-    },
-    {     
-        "fecha": "2020-07-22",
-        "confirmados": 11689,
-        "descartados": 13514,
-        "activos": 4487,
-        "sospechosos": 70,
-        "decesos": 865,
-        "recuperados": 6337,
         "observacion": "",
         "validado": true
     },
