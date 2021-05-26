@@ -10,5 +10,16 @@
         "observacion": "",
         "validado": true
     },
+    {     
+        "fecha": "2021-04-24",
+        "confirmados": 44943,
+        "descartados": 179251,
+        "activos": 0,
+        "sospechosos": 789,
+        "decesos": 1972,
+        "recuperados": 31396,
+        "observacion": "",
+        "validado": true
+    }
    
 ]
