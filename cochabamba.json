@@ -22,6 +22,17 @@
         "validado": true
     },
     {     
+        "fecha": "2021-06-01",
+        "confirmados": 49295,
+        "descartados": 194496,
+        "activos": 13362,
+        "sospechosos": 680,
+        "decesos": 2062,
+        "recuperados": 33871,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2021-04-25",
         "confirmados": 44944,
         "descartados": 179252,
