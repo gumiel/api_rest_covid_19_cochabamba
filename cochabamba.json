@@ -1,5 +1,16 @@
 [
     {     
+        "fecha": "2021-06-04",
+        "confirmados": 51695,
+        "descartados": 202016,
+        "activos": 13705,
+        "sospechosos": 500,
+        "decesos": 2108,
+        "recuperados": 35882,
+        "observacion": "",
+        "validado": true
+    },
+    {     
         "fecha": "2021-06-03",
         "confirmados": 51214,
         "descartados": 200383,
