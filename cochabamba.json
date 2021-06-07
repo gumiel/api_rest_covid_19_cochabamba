@@ -64,28 +64,5 @@
         "recuperados": 33871,
         "observacion": "",
         "validado": true
-    },
-    {     
-        "fecha": "2021-04-25",
-        "confirmados": 44944,
-        "descartados": 179252,
-        "activos": 1,
-        "sospechosos": 790,
-        "decesos": 1973,
-        "recuperados": 31397,
-        "observacion": "",
-        "validado": true
-    },
-    {     
-        "fecha": "2021-04-24",
-        "confirmados": 44943,
-        "descartados": 179251,
-        "activos": 0,
-        "sospechosos": 789,
-        "decesos": 1972,
-        "recuperados": 31396,
-        "observacion": "",
-        "validado": true
-    }
-   
+    }   
 ]
