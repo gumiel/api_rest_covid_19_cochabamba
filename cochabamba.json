@@ -1,5 +1,16 @@
 [
     {     
+        "fecha": "2021-06-16",
+        "confirmados": 59084,
+        "descartados": 231315,
+        "activos": 13316,
+        "sospechosos": 570,
+        "decesos": 2307,
+        "recuperados": 43461,
+        "observacion": "boletin 167 16/06/2021",
+        "validado": true
+    },
+    {     
         "fecha": "2021-06-15",
         "confirmados": 58379,
         "descartados": 228580,
