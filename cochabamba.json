@@ -1,5 +1,27 @@
 [
     {     
+        "fecha": "2021-06-21",
+        "confirmados": 61296,
+        "descartados": 241115,
+        "activos": 12002,
+        "sospechosos": 370,
+        "decesos": 2397,
+        "recuperados": 46897,
+        "observacion": "boletin 171 21/06/2021",
+        "validado": true
+    },
+    {     
+        "fecha": "2021-06-20",
+        "confirmados": 60959,
+        "descartados": 240213,
+        "activos": 12197,
+        "sospechosos": 400,
+        "decesos": 2378,
+        "recuperados": 46384,
+        "observacion": "boletin 171 20/06/2021",
+        "validado": true
+    },
+    {     
         "fecha": "2021-06-18",
         "confirmados": 60209,
         "descartados": 236458,
